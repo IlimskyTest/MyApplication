@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("22.05.2021 22.53");
+
+        System.out.println("Hello IlimskyTest");
     }
 }
