@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//        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
         System.out.println("22.05.2021 22.53");
 
         System.out.println("Hello IlimskyTest");
